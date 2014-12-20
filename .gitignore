@@ -1,0 +1,10 @@
+*.o
+*.so
+*.ppu
+lib
+build
+compile
+*.lps
+*.lpi
+*.log
+*.trace
